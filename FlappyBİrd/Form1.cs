@@ -76,7 +76,7 @@ namespace FlappyBİrd
         {
             if(e.KeyCode==Keys.Space)
             {
-                gravity = 15;
+                gravity = 15; 
             }
 
         }
